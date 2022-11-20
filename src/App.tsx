@@ -1,7 +1,9 @@
+import Sidebar from "./components/sidebar-components/sidebar";
+
 function App() {
   return (
     <>
-      <h1>Hola Mundo</h1>
+      <Sidebar />
     </>
   );
 }
